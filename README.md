@@ -7,7 +7,7 @@ Details:
 
 🇧🇷
 Detalhes:
-- Continuadade do projeto Lost-In-The-Stars-Unity-Developer-Module-14;
+- Continuidade do projeto Lost-In-The-Stars-Unity-Developer-Module-14;
 - O personagem, que antes era um cubinho na tela, agora é um personagem normal com duas animações: uma animação de Idle e uma animação de correr;
 - Essas animações estão integradas com o movimento: quando anda para os lados, o personagem começa a correr e, quando para, o personagem fica parado;
 - Animação de pulo adicionada; 
